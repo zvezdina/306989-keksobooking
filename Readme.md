@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Юля Звездина](https://up.htmlacademy.ru/javascript/8/user/306989).
-* Наставник: `Неизвестно`.
+* Наставник: Даниил Оношко.
 
 ---
 
